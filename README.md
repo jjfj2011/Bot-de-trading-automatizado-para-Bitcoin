@@ -1,0 +1,1 @@
+# Bot-de-trading-automatizado-para-Bitcoin
