@@ -2,7 +2,7 @@
 # 📊 Proyecto de Bot de Trading de Bitcoin
 
 ## 📈 Objetivo del Proyecto
-Este proyecto tiene como objetivo crear un bot de trading automatizado que analice el comportamiento del precio de Bitcoin en tiempo real y tome decisiones de compra, venta o mantener, basándose en medias móviles simples y tendencias de mercado.
+Este proyecto busca desarrollar un bot de trading automatizado que evalúe el comportamiento del precio de Bitcoin en tiempo real y realice decisiones de compra, venta o mantenimiento, fundamentadas en medias móviles simples y análisis de tendencias del mercado.
 
 ## ❓ Preguntas Clave
 - 🔍 **Análisis Inicial**: ¿Cómo se comporta el precio de Bitcoin en intervalos de 5 minutos?
@@ -11,7 +11,7 @@ Este proyecto tiene como objetivo crear un bot de trading automatizado que anali
 - 🔄 **Automatización**: ¿Cómo implementamos un ciclo continuo que toma decisiones cada 5 minutos?
 
 ## 🚀 Configuración del Ambiente
-Asegúrate de tener las siguientes bibliotecas instaladas para ejecutar el proyecto:
+Es fundamental contar con las siguientes bibliotecas instaladas para la correcta ejecución del proyecto:
 
 ```bash
 pip install yfinance beautifulsoup4  matplotlib seaborn pandas numpy
@@ -40,10 +40,10 @@ El bot toma decisiones basadas en las siguientes reglas:
 - **Mantener**: Si no se cumplen las condiciones anteriores.
 
 ## 🔄 Ciclo Automatizado
-El bot se ejecuta en un loop infinito, tomando decisiones cada 5 minutos, descargando nuevos datos, limpiando los datos y calculando las medias móviles para decidir la acción a tomar.
+El bot opera en un ciclo continuo, evaluando información cada cinco minutos, adquiriendo nuevos datos, realizando procesos de limpieza de datos y calculando promedios móviles para determinar la acción a seguir.
 
 ## 📊 Visualización de Resultados
-Se pueden generar gráficos para visualizar el comportamiento de las medias móviles y el precio de Bitcoin utilizando bibliotecas como Matplotlib y Plotly.
+Se generan gráficos para visualizar el comportamiento de las medias móviles y el precio de Bitcoin utilizando la biblioteca Matplotlib.
 
 ## 📝 Conclusiones
-Este bot proporciona una solución automatizada para el análisis y toma de decisiones de trading de Bitcoin, basado en indicadores técnicos simples y datos extraídos en tiempo real. Es un excelente punto de partida para quienes desean experimentar con bots de trading y estrategias basadas en medias móviles.
+Este bot ofrece una solución automatizada para el análisis y la toma de decisiones en el trading de Bitcoin, fundamentada en indicadores técnicos sencillos y datos en tiempo real.
