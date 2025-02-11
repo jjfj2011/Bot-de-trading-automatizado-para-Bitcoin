@@ -1,5 +1,5 @@
 
-# 📊 Proyecto: Bot de Trading de Bitcoin
+# 📊 Proyecto: Bot de Trading automatizado para Bitcoin
 
 ## 📈 Objetivo del Proyecto
 Este proyecto busca desarrollar un bot de trading automatizado que evalúe el comportamiento del precio de Bitcoin en tiempo real y realice decisiones de compra, venta o mantenimiento, fundamentadas en medias móviles simples y análisis de tendencias del mercado.
